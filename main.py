@@ -10,10 +10,10 @@ COLOR = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 
 pygame.display.set_caption("Игра Тир")
-icon = pygame.image.load("img/png-transparent-archery-computer-icons-objective-sport-target-archery-circle.png")
+icon = pygame.image.load("img/icon1.png")
 pygame.display.set_icon(icon)
 
-target_img = pygame.image.load("img/")
+target_img = pygame.image.load("img/target.png")
 target_width = 60
 target_height = 60
 target_x = random.randint(0, SCREEN_WIDTH - target_width)
