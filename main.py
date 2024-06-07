@@ -6,4 +6,5 @@ running = True
 while running:
     pass
 
+
 pygame.quit()
