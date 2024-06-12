@@ -1,4 +1,4 @@
-# lesson3.3
+# Zerocoder Python OG03
 
 ## Игра Тир
 
