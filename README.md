@@ -1,4 +1,4 @@
-# Zerocoder Python OG03
+# Zerocoder Python OG03 Распределенная работа с Git
 
 ## Игра Тир
 
